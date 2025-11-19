@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
            
-            Console.WriteLine("--- Task 3: Parameter Types ---"); 
+            Console.WriteLine("- Task 3: Parameter Types -"); 
             ParameterDemo demo = new ParameterDemo();
 
           
