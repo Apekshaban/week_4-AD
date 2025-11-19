@@ -22,10 +22,10 @@
 
 
             //Book object
-            Book book1 = new Book("Web development ", "Aaditya Sigdel", 2000);
+            Book book1 = new Book("Web development ", "Apekshya Ban", 4000);
 
             // object using 'with' expression
-            Book book2 = book1 with { title = "Advanced prgraming", price = 4000 };
+            Book book2 = book1 with { title = "Advanced prgraming", price = 10000 };
 
             Console.WriteLine("\n");
             Console.WriteLine($"Title: {book1.title}");
