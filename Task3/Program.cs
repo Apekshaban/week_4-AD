@@ -12,7 +12,7 @@
             int value = 20;
             Console.WriteLine($"Original value before ref: {value}");
             demo.Increase(ref value);
-            Console.WriteLine($"Value after Increase (ref): {value}"); // Should be 30
+            Console.WriteLine($"Value after Increase (ref): {value}"); 
 
             
             string fullName;

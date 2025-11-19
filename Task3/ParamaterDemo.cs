@@ -9,7 +9,7 @@
   
     public void GetFullName(out string fullname)
     {
-        fullname = "John David Smith"; // Assigning value to the out parameter [cite: 34]
+        fullname = "Rahul Rai"; 
     }
 
    
